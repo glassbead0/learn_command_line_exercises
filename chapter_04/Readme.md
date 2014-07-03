@@ -1,7 +1,7 @@
 Chapter 4 questions:
 
 Question | Answer
--- | --
+--- | ---
 *Can you make a temp directory?* | `mkdir tmp` this makes a directory called tmp.
 *Can you make a log directory in your clas directory?* | `cd ~/w`(tab)`/d`(tab)(enter) `mkdir log` This changes to your class directory, then makes a directory called log
 
