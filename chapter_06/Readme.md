@@ -12,6 +12,8 @@ What files are in your home directory? | `cd` enter, then `ls` will change to yo
 What's in the slash temp? | `cd temp` enter, then `ls` to show the contents of temp.
 
 Home, or ~/ directory contents 
+
+ | | 
 --- | --- | ---
 name | Dropbox (Old) | RubymineProjects
 ACTIVstudioError.log | Google Drive | Sites
