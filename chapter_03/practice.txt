@@ -1,0 +1,11 @@
+hello. im goin to output the hostname of my computer below using vim commands
+
+Aaron-Glasenapps-MacBook.local
+
+Woo-hoo! it worked. i pressed esc :r!hostname
+
+i can also do this
+
+/Users/glassbead/workspace/davinci_coders_t2_2014/learn_command_line_exercises
+
+that is my present working directory
