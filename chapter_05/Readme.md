@@ -1,7 +1,7 @@
 Chapter 5 questions from learn the command line:
 
 Bullet Point | command
-*---* | ---
+--- | ---
 cd to the joe directory with one command | `cd temp/stuff/things/frank/joe`
 cd back to temp with one command, but not further above that. | `cd ../../../..`
 Find out how to cd to your "home directory" with one command. | `cd`
