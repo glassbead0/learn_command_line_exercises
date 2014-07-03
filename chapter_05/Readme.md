@@ -13,7 +13,7 @@ Remember when you put quotes around a directory with spaces in it? You can do th
 English question for chapter 5
 
 English | command
-*---* | ---
+--- | ---
 Can you cd into the temp directory? | `cd tmp`
 Why don't we go into the temp directory? | `cd tmp`
 Can you go to the slash temp directory? | `cd /tmp` or `cd tmp`
