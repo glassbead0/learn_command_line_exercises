@@ -1,4 +1,4 @@
-with the `-lR` option for `cd`, the l is for 'long'. it list more information about the file or directory.
+with the `-lR` option for `ls`, the l is for 'long'. it list more information about the file or directory.
 the R is for 'recursive'. It goes through any directory and lists the contents. 
 Then through any subdirectories of that...and so on. So it lists EVERYTHING in the directory structure below your working directory.
 
@@ -6,10 +6,16 @@ Chapter 6 questions:
 
 Question | Answer
 --- | ---
-What does your log directory look like? | `cd log` enter, then `ls`. This changes into your log directory, then lists its contents. I dont have a log directory within chapter_06.
-Can you show me what files are in that directory? | `ls` will list the files (and directories) in your working directory.
-What files are in your home directory? | `cd` enter, then `ls` will change to your home directory, then list its contents. See below for whats in my home directory.
-What's in the slash temp? | `cd temp` enter, then `ls` to show the contents of temp.
+What does your log directory look like? | `ls log`
+Can you show me what files are in that directory? | `ls log` 
+What files are in your home directory? | `ls ~` 
+Whats in the slash temp? | `ls /tmp`
+
+![home directory](glassbead0.github.com/learn_command_line_exercises/images/home_directory.jpg)
+
+![temp directory](glassbead0.github.com/learn_command_line_exercises/images/temp_directory.jpg)
+
+
 
 Home, or ~/ directory contents 
 
