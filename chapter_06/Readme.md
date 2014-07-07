@@ -11,7 +11,7 @@ Can you show me what files are in that directory? | `ls log`
 What files are in your home directory? | `ls ~` 
 Whats in the slash temp? | `ls /tmp`
 
-![home directory](glassbead0.github.com/learn_command_line_exercises/images/home_directory.jpg)
+![home directory contents](../images/home_directory.jpg)
 
 ![temp directory](glassbead0.github.com/learn_command_line_exercises/images/temp_directory.jpg)
 
