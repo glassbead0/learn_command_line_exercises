@@ -13,7 +13,7 @@ Whats in the slash temp? | `ls /tmp`
 
 ![home directory contents](../images/home_directory.jpg)
 
-![temp directory](glassbead0.github.com/learn_command_line_exercises/images/temp_directory.jpg)
+![temp directory contents](../images/temp_directory.jpg)
 
 
 
