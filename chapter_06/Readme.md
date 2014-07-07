@@ -14,37 +14,3 @@ Whats in the slash temp? | `ls /tmp`
 ![home directory contents](../images/home_directory.jpg)
 
 ![temp directory contents](../images/temp_directory.jpg)
-
-
-
-Home, or ~/ directory contents 
-
- | | 
---- | --- | ---
-name | Dropbox (Old) | RubymineProjects
-ACTIVstudioError.log | Google Drive | Sites
-Applications | Library | octave-workspace
-Desktop | Movies | test_file
-Documents | Music | workspace
-Downloads | Pictures
-Dropbox | Public
-
-
-temp (in chapter_06) contents ls -R temp:
-              
-temp/stuff:
-things
-
-temp/stuff/things:
-frank
-
-temp/stuff/things/frank:
-joe
-
-temp/stuff/things/frank/joe:
-alex
-
-temp/stuff/things/frank/joe/alex:
-john
-
-temp/stuff/things/frank/joe/alex/john:
