@@ -1,3 +1,0 @@
-I've discovered that in order for git to see a directory, there must be a file somewhere down in there. If there are empty directories (inside empty directores...etc), git will ignore them. 
-
-I created this file so git will see at least some of the complicated direcotry tree that I created.
